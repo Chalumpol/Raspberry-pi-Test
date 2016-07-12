@@ -1,0 +1,8 @@
+prefix=/home/pi/ros_work/install
+
+Name: rosberrypi_cam
+Description: Description of rosberrypi_cam
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/ros_work/install/lib 
+Requires: 

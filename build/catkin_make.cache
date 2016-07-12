@@ -1,0 +1,2 @@
+raspicam_node:rosberrypi_cam
+-DCATKIN_DEVEL_PREFIX=/home/pi/ros_work/devel -DCMAKE_INSTALL_PREFIX=/home/pi/ros_work/install -G Unix Makefiles
